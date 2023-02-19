@@ -1,0 +1,4 @@
+1-perform basic exploration of the downloaded data (From Excel file), mainly in the form of visualization,
+2-create, present and evaluate a classification model that will predict the station in which a given track is played based on the various characteristics of the piece (random forest model, model boosting?)
+3-create, present and evaluate a classification model that will predict the musical genre of the track
+4-analyze the lyrics (from Excel file), comparing the results between musical genres.
